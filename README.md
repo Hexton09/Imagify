@@ -89,8 +89,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
-cd imaginify
+git clone https://github.com/Hexton09/Imagify---AI-SAAS-Platform.git
+cd Imagify---AI-SAAS-Platform
 ```
 
 **Installation**
