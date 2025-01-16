@@ -94,7 +94,7 @@ cd Imagify---AI-SAAS-Platform
 Install the project dependencies using npm:
 
 ```bash
-npm run dev
+npm install
 ```
 
 **Set Up Environment Variables**
